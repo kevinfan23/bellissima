@@ -1,6 +1,6 @@
 ## Clicky
 
-Clicky is a open open-source collection of useful resources for web developers and designers. We organize all the resources in the following categories.
+Clicky is a open-source collection of useful resources for web developers and designers, organized in the following categories:
 
   - Utilities
   - Front-End Web Development
@@ -68,11 +68,29 @@ Clicky is a open open-source collection of useful resources for web developers a
 * [inVision](https://www.invisionapp.com) - No code needed  
 * [Origami](http://origami.design) - A prototyping plugin by Facebook
 
+###### Inspirations
+* [Muzli](https://muz.li) - A browser extension that send you the latest design inspirations on your home page
+* [Dribbble](https://dribbble.com) - The Github of designers
+* [Medium](https://medium.com) - To read every designer's blog
+
+###### Top Digital Design Agency
+* [Ueno](https://ueno.co)
+* [Focus Lab](http://focuslabllc.com)
+* [Stinkdigital](http://www.stinkdigital.com)
+* [Fantasy](http://www.fantasy.co)
+* [Crew](https://crew.co) - The company behind Unsplash
+
+###### Resources
+* [Facebook Design](http://facebook.design) - Design blog of Facebook
+* [Google Design](https://design.google.com) - Design blog of Google
+* [MengTo's Design Resources](https://designcode.io/learn) - Design resources curated by MengTo
+* [10 Animators & Illustrators That You Must Follow On Dribbble](https://medium.muz.li/10-animators-illustrators-that-you-must-follow-on-dribbble-488c55221ae0#.tfy7vw9mu)
+* [Twitter accounts every designer must follow](https://medium.muz.li/twitter-accounts-every-designer-must-follow-9a4277e85e35#.7uics5k92)
+
 ### Todos
 
  - Backend
  - Data visualization
- - Design inspirations
 
 ### License
 
