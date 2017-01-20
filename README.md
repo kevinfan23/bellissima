@@ -1,24 +1,24 @@
-#### H4 Package Manager
-npm: https://www.npmjs.com
-Bower: https://bower.io
+#### Package Manager
+npm: https://www.npmjs.com  
+Bower: https://bower.io  
 
-#### H4 Build Manager
-Gulp: http://gulpjs.com
-Grunt: http://gruntjs.com
+#### Build Manager  
+Gulp: http://gulpjs.com  
+Grunt: http://gruntjs.com  
 
-#### H4 Text Editor
-Coda 2: https://panic.com/coda/ Good for web development
-Atom: https://atom.io Open source text editor, good for customization and tree-shape directories
+#### Text Editor  
+Coda 2: https://panic.com/coda/ Good for web development  
+Atom: https://atom.io Open source text editor, good for customization and tree-shape directories  
 
-#### H4 JS Animation Library
-Velocity.js: http://velocityjs.org A heavyweight JS animation library
-Anime.js: http://anime-js.com A lightweight JS animation library
-Magic Animations: https://www.minimamente.com/example/magic_animations/ Fun JS animations
+#### JS Animation Library
+Velocity.js: http://velocityjs.org A heavyweight JS animation library  
+Anime.js: http://anime-js.com A lightweight JS animation library  
+Magic Animations: https://www.minimamente.com/example/magic_animations/ Fun JS animations  
 
-#### H4 CSS Animation Library
-Animate.css: https://daneden.github.io/animate.css/ Simple CSS animations
-Hover.css: http://ianlunn.github.io/Hover/ Simple hover animations
+#### CSS Animation Library  
+Animate.css: https://daneden.github.io/animate.css/ Simple CSS animations  
+Hover.css: http://ianlunn.github.io/Hover/ Simple hover animations  
 
-#### H4 CSS Gradient
-CSS Gradient Generator: https://www.minimamente.com/example/gradient-generator/
-uiGradients: http://uigradients.com/#Moonrise Beautiful color gradients inspirations
+#### CSS Gradient  
+CSS Gradient Generator: https://www.minimamente.com/example/gradient-generator/  
+uiGradients: http://uigradients.com/#Moonrise Beautiful color gradients inspirations  
