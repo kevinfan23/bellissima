@@ -8,7 +8,7 @@ Clicky is a open open-source collection of useful resources for web developers a
   - Data Visualization
   - Design
 
-##### Utilities
+### Utilities
 ###### Package Manager
 * [npm](https://www.npmjs.com) - The Node package manager
 * [Bower](https://bower.io)
@@ -22,7 +22,7 @@ Clicky is a open open-source collection of useful resources for web developers a
 * [Atom](https://atom.io) - A open-source text editor, great for customization and projects with directory trees
 
 
-##### Front-End Web Development  
+### Front-End Web Development  
 ###### JS Animation Library
 * [Velocity.js](http://velocityjs.org) - A powerful and heavyweight JS animation library
 * [Anime.js](http://anime-js.com) - A easy-to-use lightweight JS animation library
@@ -53,11 +53,11 @@ Clicky is a open open-source collection of useful resources for web developers a
 ###### Favicon Generator  
 * [Favic-o-Matic](http://www.favicomatic.com) - Generate favicons for all devices
 
-##### Back-End Web Development  
+### Back-End Web Development  
 
-##### Data Visualization  
+### Data Visualization  
 
-##### Design    
+### Design    
 
 ###### UI Software    
 * [Sketch](https://www.sketchapp.com) - The most popular UI design software  
@@ -68,13 +68,13 @@ Clicky is a open open-source collection of useful resources for web developers a
 * [inVision](https://www.invisionapp.com) - No code needed  
 * [Origami](http://origami.design) - A prototyping plugin by Facebook
 
-##### Todos
+### Todos
 
  - Backend
  - Data visualization
  - Design inspirations
 
-##### License
+### License
 
 MIT
 
