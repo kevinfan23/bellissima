@@ -2,11 +2,11 @@
 
 Clicky is a open-source collection of useful resources for web developers and designers, organized in the following categories:
 
-  - Utilities
-  - Front-End Web Development
-  - Back-End Web Development
-  - Data Visualization
-  - Design
+  - **Utilities**
+  - **Front-End Web Development**
+  - **Back-End Web Development**
+  - **Data Visualization**
+  - **Design**
 
 ### Utilities
 ###### Package Manager
