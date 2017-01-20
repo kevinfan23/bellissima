@@ -17,6 +17,19 @@ Clicky is a open-source collection of useful resources for web developers and de
 * [Gulp](http://gulpjs.com) - A simple build environment
 * [Grunt](http://gruntjs.com)
 
+###### Essential Gulp Plugins
+* [gulp-sass](https://www.npmjs.com/package/gulp-sass) - SCSS pre-compiler
+* [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) - Minify JS
+* [gulp-uglifycss](https://www.npmjs.com/package/gulp-uglifycss) - Minify CSS
+* [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images
+* [gulp-rename](https://www.npmjs.com/package/gulp-rename) - Rename files
+* [gulp-concat](https://www.npmjs.com/package/gulp-concat) - Concatenate files
+* [gulp-notify](https://www.npmjs.com/package/gulp-notify) - Notification plugin for gulp
+* [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps) - Source map support for gulp
+* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) - CSS autoprefixer
+* [del](https://www.npmjs.com/package/del) - Delete files and folders
+* [gulp-plumber](https://www.npmjs.com/package/gulp-plumber) - Prevent pipe breaking caused by errors from gulp plugins
+
 ###### Text Editor  
 * [Coda 2](https://panic.com/coda/) - Good for switcing pages
 * [Atom](https://atom.io) - A open-source text editor, great for customization and projects with directory trees
@@ -48,7 +61,12 @@ Clicky is a open-source collection of useful resources for web developers and de
 * [Isotope](http://isotope.metafizzy.co)
 
 ###### Image Compressor  
-* [Optimizilla](http://optimizilla.com)
+* [Optimizilla](http://optimizilla.com) - For jpeg and png
+* [EZGIF](http://ezgif.com/optimize) - For gif
+
+###### Minifier   
+* [CSSMinifier](https://cssminifier.com) - Minify CSS
+* [JSMinifier](https://javascript-minifier.com) - Minify Javascript
 
 ###### Favicon Generator  
 * [Favic-o-Matic](http://www.favicomatic.com) - Generate favicons for all devices
