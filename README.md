@@ -2,11 +2,11 @@
 
 Bellissima is a open-source collection of useful resources for Web/iOS developers and designers, organized in the following categories:
 
-  - **Utilities**
-  - **Front-End Web Development**
-  - **Back-End Web Development**
-  - **Design**
-  - **Type Foundries**
+  - **[Utilities](#utilities)**
+  - **[Frontend Web Development](#frontend-web-development)**
+  - **[Backend Web Development](#backend-web-development)**
+  - **[Design](#design)**
+  - **[Type Foundries](#type-foundaries)**
 
 ### Utilities
 ##### Package Manager
@@ -104,7 +104,7 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 * [10 Animators & Illustrators That You Must Follow On Dribbble](https://medium.muz.li/10-animators-illustrators-that-you-must-follow-on-dribbble-488c55221ae0#.tfy7vw9mu)
 * [Twitter accounts every designer must follow](https://medium.muz.li/twitter-accounts-every-designer-must-follow-9a4277e85e35#.7uics5k92)
 
-### Type Foundaries    
+### Type Foundaries  
 Here are some of the typeface foundaries I frequently follow and get my inspirations from.
 
 | Foundary | Favorite fonts |
