@@ -2,13 +2,13 @@
 
 Bellissima is a open-source collection of useful resources for Web/iOS developers and designers, organized in the following categories:
 
-  - [Utilities](#utilities)
+  - [Productivity](#productivity)
   - [Frontend Web Development](#frontend-web-development)
   - [Backend Web Development](#backend-web-development)
   - [Design](#design)
   - [Type Foundries](#type-foundaries)
 
-### Utilities
+### Productivity
 ##### Package Manager
 * [npm](https://www.npmjs.com) - The Node package manager
 * [Bower](https://bower.io)
@@ -35,7 +35,7 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 * [Atom](https://atom.io) - A open-source text editor, great for customization, syntax highlighting and projects with directory trees
 
 
-### Front-End Web Development  
+### Frontend Web Development  
 ##### JS Animation Library
 * [Velocity.js](http://velocityjs.org) - A powerful and heavyweight JS animation library
 * [Anime.js](http://anime-js.com) - A easy-to-use lightweight JS animation library
@@ -72,7 +72,7 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 ##### Favicon Generator  
 * [Favic-o-Matic](http://www.favicomatic.com) - Generate favicons for all devices
 
-### Back-End Web Development  
+### Backend Web Development  
 
 ### Design    
 
