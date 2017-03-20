@@ -2,11 +2,11 @@
 
 Bellissima is a open-source collection of useful resources for Web/iOS developers and designers, organized in the following categories:
 
-  - **[Utilities](#utilities)**
-  - **[Frontend Web Development](#frontend-web-development)**
-  - **[Backend Web Development](#backend-web-development)**
-  - **[Design](#design)**
-  - **[Type Foundries](#type-foundaries)**
+  - [Utilities](#utilities)
+  - [Frontend Web Development](#frontend-web-development)
+  - [Backend Web Development](#backend-web-development)
+  - [Design](#design)
+  - [Type Foundries](#type-foundaries)
 
 ### Utilities
 ##### Package Manager
