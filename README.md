@@ -50,6 +50,9 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 * [CSS Gradient Generator](https://www.minimamente.com/example/gradient-generator/) - An interactive CSS gradient generator
 * [uiGradients](http://uigradients.com/) - Beautiful color gradients inspirations
 
+##### CSS Grid Layout  
+* [Codrops CSS Grid Reference](https://tympanus.net/codrops/css_reference/grid/) - A comprehensive reference to the new CSS Grid Layout  
+
 ##### Easing Functions  
 * [Easing Functions Cheat Sheet](http://easings.net) - A comprehensive cheatsheet of JS easing functions
 
