@@ -51,7 +51,11 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 * [uiGradients](http://uigradients.com/) - Beautiful color gradients inspirations
 
 ##### Easing Functions  
-* [Easing Functions Cheat Sheet](http://easings.net) - A comprehensive cheat sheat of JS easing functions
+* [Easing Functions Cheat Sheet](http://easings.net) - A comprehensive cheatsheet of JS easing functions
+
+##### Parallax Effect
+* [Rellax](https://dixonandmoe.com/rellax/) - A lightweight library for full page scroll parallax effect  
+* [Parallax by Matthew Wagerfield](https://github.com/wagerfield/parallax) - A powerful library for mouse over parallax effects. Reacts to the orientation of a smart device too  
 
 ##### Lazy Loading  
 * [blazy.JS](https://github.com/dinbror/blazy) - A lightweight JavaScript script for lazy loading and multi-serving images  
