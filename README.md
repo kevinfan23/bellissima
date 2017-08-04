@@ -103,6 +103,7 @@ Bellissima is a open-source collection of useful resources for Web/iOS developer
 * [Stinkdigital](http://www.stinkdigital.com)
 * [Fantasy](http://www.fantasy.co)
 * [Crew](https://crew.co) - The company behind Unsplash
+* [MING Lab](https://minglabs.com)
 
 ##### Resources
 * [Facebook Design](http://facebook.design) - Design blog of Facebook
